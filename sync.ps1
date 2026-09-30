@@ -1,4 +1,7 @@
 # One-command sync: pull, commit local changes, push - for every repo below.
+# -Auto: unattended mode for Task Scheduler (never prompts, timestamps every run; the task redirects output to sync.log).
+param([switch]$Auto)
+if ($Auto) { $env:GIT_TERMINAL_PROMPT = '0'; Write-Output ("---- {0:yyyy-MM-dd HH:mm:ss} {1}" -f (Get-Date), $env:COMPUTERNAME) }
 $repos = @('D:\_SCRIPTS_', 'D:\Claude')
 foreach ($r in $repos) {
     Write-Host "=== $r" -ForegroundColor Cyan
