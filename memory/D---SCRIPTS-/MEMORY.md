@@ -3,6 +3,7 @@
 - [Інтерфейс скриптів — англійською](english-ui-in-scripts.md) — усі user-facing рядки EN, коментарі можна українською
 - [Скрипти Biedronka — в іншій сесії](biedronka-scripts-other-session.md) — файли можуть змінюватися без мене, перечитувати з диска
 - [Візки з таблиці CNC 2026](biedronka-wizki-rules.md) — що переносимо скриптом, а що руками; частина A/B з колонки A
+- [Перенос візок в новий тиждень (як DMP)](biedronka-carry-over-wizki.md) — A/B сам, C питати, пошук у Plansze_Do_Spotu; лише за командою
 - [Робота в compo\_ai_progress, затверджене в compo](work-in-real-project-with-backup.md) — у compo лише проєкти споту; резерв у `_ai_progress\_backup`; пісочниця лише для читання
 - [MCP: працюємо лише на _wip](mcp-work-on-wip-copy.md) — зміни через AE MCP тільки в копії *_wip.aep, не в оригіналі
 - [Таблиця CNC: oferty vs TVC, REG/FRESH/GANG](biedronka-cnc-sheet-and-shows.md) — як читати таблицю, де шаблони, назви спотів
