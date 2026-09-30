@@ -1,0 +1,12 @@
+- [Нові скрипти — в D:\_SCRIPTS_, без інструкцій](new-scripts-go-to-scripts-folder.md) — куди класти файл і чого не писати у відповіді
+- [Слот разових задач !TASK.jsx](task-slot-workflow.md) — архів перед перезаписом, лише блок task(), UTF-8 BOM
+- [Інтерфейс скриптів — англійською](english-ui-in-scripts.md) — усі user-facing рядки EN, коментарі можна українською
+- [Скрипти Biedronka — в іншій сесії](biedronka-scripts-other-session.md) — файли можуть змінюватися без мене, перечитувати з диска
+- [Візки з таблиці CNC 2026](biedronka-wizki-rules.md) — що переносимо скриптом, а що руками; частина A/B з колонки A
+- [Робота в compo\_ai_progress, затверджене в compo](work-in-real-project-with-backup.md) — у compo лише проєкти споту; резерв у `_ai_progress\_backup`; пісочниця лише для читання
+- [MCP: працюємо лише на _wip](mcp-work-on-wip-copy.md) — зміни через AE MCP тільки в копії *_wip.aep, не в оригіналі
+- [Таблиця CNC: oferty vs TVC, REG/FRESH/GANG](biedronka-cnc-sheet-and-shows.md) — як читати таблицю, де шаблони, назви спотів
+- [Скіл складання спотів Biedronka](biedronka-spot-assembly-skill.md) — `D:\_SCRIPTS_\.claude\skills\biedronka-spot-assembly\`: REG/FRESH/Świeżaki/фестивалі/бампери
+- [Складання REG-спота через AE MCP](biedronka-spot-assembly-pipeline.md) — кроки пайплайну Oferta N (у процесі)
+- [Звертатися на «ти»](address-user-informal.md) — українською, неформально
+- [Рендер: чергу ставлю я, Render тисне користувач](render-queue-user-presses-render.md) — без render.start, щоб було видно превʼю/пасок; явна тривалість, перевірка шляхів
