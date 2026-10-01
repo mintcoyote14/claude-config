@@ -3,11 +3,19 @@
 - [Інтерфейс скриптів — англійською](english-ui-in-scripts.md) — усі user-facing рядки EN, коментарі можна українською
 - [Скрипти Biedronka — в іншій сесії](biedronka-scripts-other-session.md) — файли можуть змінюватися без мене, перечитувати з диска
 - [Візки з таблиці CNC 2026](biedronka-wizki-rules.md) — що переносимо скриптом, а що руками; частина A/B з колонки A
+- [Стан і домовленості на 01.10.2026](biedronka-session-state-2026-10-01.md) — що зроблено по W41, як працюємо, відкриті питання, що далі
+- [D:\Claude це git-репо з памʼяттю, скілами, CLAUDE.md](claude-config-repo.md) — глобальний CLAUDE.md імпортує його; правити загальне там
+- [Диск X: максимально обережно](x-drive-careful.md) — сервер компанії: не видаляти/не псувати, резерв, MD5, без масових операцій
+- [Не правити відрендерені споти наосліп](biedronka-dont-edit-rendered-spots.md) — нове правило до майбутніх; поправки лише коли видно, що правиш
+- [Етап 3 після монтажу (B-споти)](biedronka-stage3-checks.md) — маркери переходів = старт оферти; DN-значок на 3-й оферті
+- [Фони за типом продукту](biedronka-backgrounds-by-product.md) — миючі засоби/порошки = EDEN, не CHEMIA; решта відповідностей
+- [Звірка оферт колег із JPG агенції](biedronka-jpg-comparison-for-whole-comp-offers.md) — цінівка цілим компом: JPG першим шаром 50% + guide або наша схема
 - [Перенос візок в новий тиждень (як DMP)](biedronka-carry-over-wizki.md) — A/B сам, C питати, пошук у Plansze_Do_Spotu; лише за командою
 - [Робота в compo\_ai_progress, затверджене в compo](work-in-real-project-with-backup.md) — у compo лише проєкти споту; резерв у `_ai_progress\_backup`; пісочниця лише для читання
-- [MCP: працюємо лише на _wip](mcp-work-on-wip-copy.md) — зміни через AE MCP тільки в копії *_wip.aep, не в оригіналі
+- [MCP: працюємо лише на _wip](mcp-work-on-wip-copy.md) — інший процес (проєкти з vNN і _wip, напр. credits); для спотів Biedronka діє `compo\_ai_progress` та дозвіл правити в compo
 - [Таблиця CNC: oferty vs TVC, REG/FRESH/GANG](biedronka-cnc-sheet-and-shows.md) — як читати таблицю, де шаблони, назви спотів
 - [Скіл складання спотів Biedronka](biedronka-spot-assembly-skill.md) — `D:\_SCRIPTS_\.claude\skills\biedronka-spot-assembly\`: REG/FRESH/Świeżaki/фестивалі/бампери
 - [Складання REG-спота через AE MCP](biedronka-spot-assembly-pipeline.md) — кроки пайплайну Oferta N (у процесі)
 - [Звертатися на «ти»](address-user-informal.md) — українською, неформально
 - [Рендер: чергу ставлю я, Render тисне користувач](render-queue-user-presses-render.md) — без render.start, щоб було видно превʼю/пасок; явна тривалість, перевірка шляхів
+- [FRESH: лада-beautyshot, маркер, люди](biedronka-fresh-rules-2026-10-01.md) — перед ладою beautyshot ~2,36 с; маркер на коротких переходах; без коротких рукавів/шортів

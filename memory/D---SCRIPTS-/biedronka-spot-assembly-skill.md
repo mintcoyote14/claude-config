@@ -1,15 +1,15 @@
 ---
 name: biedronka-spot-assembly-skill
-description: "Де лежить скіл складання спотів Biedronka (REG/FRESH/Świeżaki/фестивалі/бампери) і що в ньому; пам'ять-джерело, з якого він зібраний"
+description: "Де лежить скіл складання спотів Biedronka і що в ньому (references), пам'ять-джерело, стан на 2026-10-01"
 metadata:
   node_type: memory
   type: reference
   originSessionId: 8b735979-9994-46a1-a6e0-bebb634e71eb
-  modified: 2026-09-30T13:14:36.312Z
+  modified: 2026-10-01T14:46:01.277Z
 ---
 
-Скіл `biedronka-spot-assembly` створено 2026-09-30 у `D:\_SCRIPTS_\.claude\skills\biedronka-spot-assembly\` (`SKILL.md` + `references/{sheet,reg,fresh,swiezaki,festiwale,bumper,stickers,ae-mcp}.md`). Це зведення всього, що користувач показав і виправив у сесії про складання спотів через AE MCP. Детальні накопичені нотатки (джерело) — [[biedronka-spot-assembly-pipeline]], [[biedronka-cnc-sheet-and-shows]], [[biedronka-wizki-rules]].
+Скіл `biedronka-spot-assembly` у `D:\_SCRIPTS_\.claude\skills\biedronka-spot-assembly\`: `SKILL.md` (ролі, золоті правила, схема оформлення, нестандартні випадки, таблиця references) + `references/`: `sheet`, `reg`, `fresh`, `swiezaki`, `festiwale`, `bumper`, `stickers` (в т.ч. святковий значок/DN як ОПЦІЯ), `ae-mcp`, `replace-cenowka` (заміна цінівки, варіант «цілим компом», звірка 1:1), `carry-over` (перенос візок, `_shotcode`, W/T), `wizki-photoshop` (client\_WIZKI, скрипт маски), `render-prep` (DPX, finals) + `scripts/compare_frames.ps1` (піксельна звірка кадрів). Загальні правила також у `D:\Claude\CLAUDE.md` (діє лише в сесіях, відкритих у `D:\Claude`).
 
-Підтверджено користувачем для фестивалів у кінці сесії: візка береться з цінівки (як у REG), майстер називається з `T` (`…_T40_…`), MD вмикається за правилом REG; задачі на конкретний приклад не було — лише скіл.
+Пам'яті-джерела: [[biedronka-spot-assembly-pipeline]], [[biedronka-cnc-sheet-and-shows]], [[biedronka-wizki-rules]], [[biedronka-carry-over-wizki]], [[biedronka-stage3-checks]], [[biedronka-backgrounds-by-product]], [[biedronka-jpg-comparison-for-whole-comp-offers]], [[biedronka-dont-edit-rendered-spots]], [[x-drive-careful]], [[render-queue-user-presses-render]], [[work-in-real-project-with-backup]], [[biedronka-session-state-2026-10-01]].
 
-**How to apply:** під час наступних завдань зі складання спотів спершу підключай скіл; якщо користувач поправляє правило — оновлюй `SKILL.md`/потрібний `references/*.md` (і ці пам'яті).
+**How to apply:** у задачах зі складання/правки спотів спершу підключай скіл; якщо користувач поправляє правило — оновлюй `SKILL.md`/потрібний `references/*.md` і відповідну пам'ять.
