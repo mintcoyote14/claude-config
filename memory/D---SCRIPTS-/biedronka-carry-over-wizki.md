@@ -19,3 +19,15 @@ metadata:
 
 **Why:** C не завжди означає справжній Weekend, рішення залежить від знайденої візки, і його приймає користувач.
 **How to apply:** деталі кроків у `references/carry-over.md` скілу [[biedronka-spot-assembly-skill]]; правила уваг у [[biedronka-wizki-rules]].
+
+**Перенос T42B (02.10.2026):** перенесено Lipton (W02B), Snacks (W29B), Persil (W39B) у `NISKIE CENY\W42\dmp` і Filet (FRESH W40, а не вікенд T40C) у `FRESH\W42\dmp` (папку W42 створено з `_shotcode`); черга підготовлена як «Duplicate with file name» (png + a), рендер не запускав. Mleko і Marinero (Łosoś, Krewetki) користувач просив не чіпати. Деталі й нотатка про стару версію AE в `references/carry-over.md`.
+
+**Рендер візок T42 (02.10.2026), вимога користувача:** після рендеру завжди перевіряти, що всі 3 файли (`_Full`, `_Blat_Tlo`, `_Alpha`) лежать у `output\<ШОУ>\<дата>\<проєкт>\`, а `_Alpha` ще й у `Plansze_Do_Spotu\<ШОУ>\W<NN>\` (читати диск, не довіряти `rendered: N`). Перший пункт черги часто падає `ERR_STOPPED` (був `_Full`): ставити перед ним жертовний пункт у scratchpad і видаляти його після рендеру. Деталі в `references/carry-over.md`.
+
+**Mleko T42B:** зроблено 02.10.2026 з `W32B_Mleko_v07` → `W42B_Mleko_v01`, відрендерено (деталі в `references/carry-over.md`). Marinero (Łosoś, Krewetki) лишається не чіпаним.
+
+**Візки з бази + нові файли (02.10.2026):** `W42B_Krewetki_v01` зроблено з `W38B_Krewetki_v03` (Save As → `project.reduce` → видалено 7MORZ → нові PSD в папку `products`). `place_pack_lazienka 11` = комп, де збираються пачки візки. Чекає відповіді користувача, яку з 4 Marinero прибрати. Деталі в `references/carry-over.md`.
+
+**Krewetki W42B — завершено моєю частиною (02.10.2026):** користувач прибрав зайву Marinero за скріном таблиці й видалив імпорт темпури (обробка у Photoshop), далі працює сам.
+
+**Рендер візок без dummy спершу (02.10.2026):** у наступних перенесеннях спочатку без жертовного пункту; dummy додавати тільки якщо перший пункт (Full) вилетів. Файли dummy видаляти після вдалого рендеру.

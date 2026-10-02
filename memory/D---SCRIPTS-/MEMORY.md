@@ -19,3 +19,8 @@
 - [Звертатися на «ти»](address-user-informal.md) — українською, неформально
 - [Рендер: чергу ставлю я, Render тисне користувач](render-queue-user-presses-render.md) — без render.start, щоб було видно превʼю/пасок; явна тривалість, перевірка шляхів
 - [FRESH: лада-beautyshot, маркер, люди](biedronka-fresh-rules-2026-10-01.md) — перед ладою beautyshot ~2,36 с; маркер на коротких переходах; без коротких рукавів/шортів
+- [Бампери W41](biedronka-bumpers-w41.md) — 4 бампери зібрано в _ai_progress; регуляр→регуляр, фреш→фреш; рендер-шлях питати
+- [Перевірка тексту легалу](biedronka-legal-text-check.md) — синтаксис і дати в кожній оферті; правка через convert to text + paste_range
+- [Świeżaki W41B_1](biedronka-swiezaki-b1-w41.md) — Winogrona+Cytryny зібрано, тема Polish_Orchards; чекає монтажу
+- [Спершу звірити візку в Plansze_Do_Spotu](biedronka-wizki-check-before-transfer.md) — уваги з іншого шоу: шукати, чи вже була; Mleko не правило
+- [Назви папок латиницею](biedronka-folder-names-latin.md) — без польських знаків; візки з лінка в client\ШОУ\дата_WIZKI\Назва
