@@ -1,1 +1,4 @@
 - [Seedance: вимоги до вхідного відео](seedance-video-input-spec.md) — 24 fps, 1920x1080, кадрів = секунди×24 + 1 (4 с → 97)
+- [JTI_02 AE crash + E:/G: junctions](jti02-ae-crash.md) — why the old JTI_02 project won't open in AE 26.3, and what was changed on disk to chase it
+- [AE scripts: English only](feedback_ae_scripts_english.md) — write all D:\Scripts .jsx UI text/comments in English, even though chat is Ukrainian
+- [Warsaw Cheer lead bot](warsaw-cheer-agent.md) — `E:\warsaw_cheer_agent`, read HANDOFF.md first; hard spend caps, 5 cards/day, Haiku+Sonnet pipeline
