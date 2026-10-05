@@ -10,6 +10,8 @@ metadata:
 
 Скрипти Photoshop ходять між компами через OneDrive-папку **`<OneDrive>\_scripts_`** (робочий акаунт ORKA; на робочому це `C:\Users\a.popyk\OneDrive - STUDIO PRODUKCYJNE ORKA Sp. z o.o\_scripts_`). Підпапки за програмою: `photoshop\`, а в ній `actions\` для резерву панелі Actions. Станом на 2026-10-05 там лежать `Rasterize_All_Smart_Objects.jsx`, `create_select_smart_object_placeholder.jsx`, `fit_layer_to_square.jsx`, `guides_from_selection.jsx`, `ps_path_mask_script.js` і копія `Actions Palette.psp` з робочого PS 2026.
 
+**Загалом:** `<OneDrive>\_scripts_` — обмін саме скриптами й налаштуваннями (підпапка за програмою). Для решти файлів між компами, яких немає в git, користувач призначив окрему папку `<OneDrive>\Sync`, див. [[onedrive-sync-folder]]. На домашньому: `D:\OneDrive - STUDIO PRODUKCYJNE ORKA Sp. z o.o\_scripts_`.
+
 Синхронізацію робить **`D:\Claude\sync-ps-scripts.ps1`** (лежить у git-репо [[claude-config-repo]], тож є на обох компах):
 - без параметрів — обидва напрямки, новіший файл перемагає, нічого не видаляється;
 - `-Pull` / `-Push` — лише один напрямок;
