@@ -24,3 +24,4 @@
 - [Świeżaki W41B_1](biedronka-swiezaki-b1-w41.md) — Winogrona+Cytryny зібрано, тема Polish_Orchards; чекає монтажу
 - [Спершу звірити візку в Plansze_Do_Spotu](biedronka-wizki-check-before-transfer.md) — уваги з іншого шоу: шукати, чи вже була; Mleko не правило
 - [Назви папок латиницею](biedronka-folder-names-latin.md) — без польських знаків; візки з лінка в client\ШОУ\дата_WIZKI\Назва
+- [Обмін скриптами Photoshop через OneDrive](photoshop-scripts-exchange-folder.md) — `<OneDrive>\_scripts_\photoshop` + `D:\Claude\sync-ps-scripts.ps1`, як перенести Actions
