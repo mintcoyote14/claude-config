@@ -26,4 +26,5 @@
 - [Назви папок латиницею](biedronka-folder-names-latin.md) — без польських знаків; візки з лінка в client\ШОУ\дата_WIZKI\Назва
 - [Обмін скриптами Photoshop через OneDrive](photoshop-scripts-exchange-folder.md) — `<OneDrive>\_scripts_\photoshop` + `D:\Claude\sync-ps-scripts.ps1`, як перенести Actions
 - [Папка обміну OneDrive\Sync](onedrive-sync-folder.md) — місце для файлів між домашнім і робочим компом, яких немає в git
+- [Лого «Бродяги»: STING_3D](logo-brod-sting-3d.md) — E:\logo_brod, будова компа; відкладено: друга комета вогняна, інший seed, за першою з меншою затримкою
 - [Планші: звіряти висоту блатів](biedronka-plansza-blat-height-check.md) — старі планші на нижчих столах; перевіряти кожну; template `Template_PRODUCTS_v03_AE2026`, тла `BEAUTYSHOT_TLA\KREACJA`
