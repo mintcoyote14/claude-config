@@ -50,4 +50,14 @@
 - Stills in `genai\20261013\`: Artem's picks (magnific__… files: K1, K1a–d, K2, K3 shelf, K6) + mine named `KURS_…` / `GRILL_…`.
 - Later corrections (Artem): K4 green plastic crates as in `00817`; G1a counter lower (waist height) — based on `GRILL 1a v2`; G1c darker like `022` + "Produkt z Polski" sticker; G5 must look like Biedronka, Kraina Mięs counter always in the corner against the load-bearing wall (based on `GRILL 5 v3` + `018`).
 
+## End frames (2026-10-14, Artem: "more frames of this type at the end")
+- New rows on the board: KURS 7 (customers heading in, `biedronka front 02` architecture only, daylight), KURS 8 (very wide frontal end shot, sky in upper half for logo/slogan, `biedronka front 04`), GRILL 7 (couple walks out with red bags + charcoal, `biedronka front 01`), GRILL 8 (very wide end shot, man walks out with red bag, `biedronka front 03`). All + `biedr logo`, grade `00034` (KURS) / `grade` (GRILL). front 02 / 04 added to SHARED REFS (night photos → prompt says daylight, architecture only).
+- Picks (correct tagline on the sign): K7 #2, K8 #2, G7 #1, G8 #1 → `genai\20261014\KURS_07_exterior_in`, `KURS_08_end_wide`, `GRILL_07_exterior_out`, `GRILL_08_end_wide`. Watch the sign tagline — NB Pro sometimes garbles "Codziennie niskie ceny".
+- Edit: K6 22–24.52 · K7 24.52–26.52 · K8 26.52–30; G6 22.52–24.52 · G7 24.52–26.52 · G8 26.52–30. END BOARD text now sits over K8/G8 in the sky (black bg solid disabled, not deleted). Project `compo\KursGrill_stillo_v002.aep` (backup `compo\_backup\KursGrill_stillo_v002_20261014_1245.aep`).
+- Car park too empty (Artem): rows KURS 8b / GRILL 8b — edit of the K8 / G8 pick ("keep everything… change only the car park": 5–6 parked cars at the sides, 3–4 small shoppers, not many). 1 generation each, both accepted → replaced `KURS_08_end_wide` / `GRILL_08_end_wide` (old in `genai\20261014\_prev\*_v1.png`).
+- G8 cars stood across the painted bay lines (Artem). Re-park / re-paint edits did nothing or moved the camera; what worked (GRILL 8c, 4th try): "retouch of the same photo, pixel-aligned… do not move, zoom or re-crop… paint over the white parking lines". → `GRILL_08_end_wide` replaced (prev in `_prev\GRILL_08_end_wide_v2.png`).
+- Ending is now 3 shots + end board (Artem). New: KURS 9 (woman puts red bag into bike basket by the store, `front 03` + logo + `00034`), GRILL 9 (three friends load grill shopping into a car boot, `front 01` + logo + `grade`); picks K9 #2, G9 #2 → `genai\20261014\KURS_09_bike_by_store`, `GRILL_09_loading_car`.
+- Edit now: KURS K6 22–23.52 · K7 23.52–25.04 · K9 25.04–26.52 · K8+END BOARD 26.52–30. GRILL G5 18.52–22 · G6 22–23.52 · G7 23.52–25.04 · G9 25.04–26.52 · G8+END BOARD 26.52–30.
+- Supers WIĘCEJ / TANIEJ: Artem said **don't add them in AE** (colleagues do it). Don't add unless asked.
+
 Spare refs not used yet: store `015`, `014`, `05`, `013`, `019`, `020`, `021`; facades `biedronka front 02`, `04`.
