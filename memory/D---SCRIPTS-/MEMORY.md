@@ -26,6 +26,7 @@
 - [Назви папок латиницею](biedronka-folder-names-latin.md) — без польських знаків; візки з лінка в client\ШОУ\дата_WIZKI\Назва
 - [Обмін скриптами Photoshop через OneDrive](photoshop-scripts-exchange-folder.md) — `<OneDrive>\_scripts_\photoshop` + `D:\Claude\sync-ps-scripts.ps1`, як перенести Actions
 - [Папка обміну OneDrive\Sync](onedrive-sync-folder.md) — місце для файлів між домашнім і робочим компом, яких немає в git
-- [JTI 03 Talent Marketplace](jti03-project.md) — E:\JTI_03, збірка скриптами з _build, старі JTI_02 .aep не імпортувати
+- [JTI 03 Talent Marketplace](jti03-project.md) — E:\JTI_03, збірка скриптами з _build; JTI 02 читається лише через _noFX-копію
+- [Рецепти моушену JTI (з JTI 02)](jti-motion-recipes.md) — elastic-попи, пульс, орбіти, лінії що розсипаються, gooey; хелпери в _build\lib.jsx
 - [Лого «Бродяги»: STING_3D](logo-brod-sting-3d.md) — E:\logo_brod, будова компа; друга комета вогняна, seed 7313, затримка 0,15 с (зроблено 09.10)
 - [Планші: звіряти висоту блатів](biedronka-plansza-blat-height-check.md) — старі планші на нижчих столах; перевіряти кожну; template `Template_PRODUCTS_v03_AE2026`, тла `BEAUTYSHOT_TLA\KREACJA`
