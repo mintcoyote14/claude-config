@@ -30,3 +30,4 @@
 - [Рецепти моушену JTI (з JTI 02)](jti-motion-recipes.md) — elastic-попи, пульс, орбіти, лінії що розсипаються, gooey; хелпери в _build\lib.jsx
 - [Лого «Бродяги»: STING_3D](logo-brod-sting-3d.md) — E:\logo_brod, будова компа; друга комета вогняна, seed 7313, затримка 0,15 с (зроблено 09.10)
 - [Планші: звіряти висоту блатів](biedronka-plansza-blat-height-check.md) — старі планші на нижчих столах; перевіряти кожну; template `Template_PRODUCTS_v03_AE2026`, тла `BEAUTYSHOT_TLA\KREACJA`
+- [Викреслена оферта: старі файли не видаляти](biedronka-crossed-out-offer-ignore-old-files.md) — «забирай» = пропустити, а не видалити зроблене
