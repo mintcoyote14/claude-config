@@ -32,3 +32,4 @@
 - [Планші: звіряти висоту блатів](biedronka-plansza-blat-height-check.md) — старі планші на нижчих столах; перевіряти кожну; template `Template_PRODUCTS_v03_AE2026`, тла `BEAUTYSHOT_TLA\KREACJA`
 - [Викреслена оферта: старі файли не видаляти](biedronka-crossed-out-offer-ignore-old-files.md) — «забирай» = пропустити, а не видалити зроблене
 - [Різні люди в оферт одного споту](biedronka-different-people-per-offer.md) — людина не повторюється; фон-комп дублювати й міняти кліп
+- [Дані Claude на D: (домашній ПК)](claude-data-on-d.md) — `C:\Users\tequi\.claude` = junction на `D:\ClaudeHome\.claude`; робочий ПК не переносимо
