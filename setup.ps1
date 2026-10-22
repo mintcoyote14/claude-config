@@ -22,6 +22,7 @@ function Set-Junction($src, $link, $bakDir) {
     New-Item -ItemType Junction -Path $link -Target $src.FullName | Out-Null
     "LINKED  $link -> $($src.FullName)"
 }
+<<<<<<< Updated upstream
 
 foreach ($src in Get-ChildItem (Join-Path $repo 'memory') -Directory) {
     Set-Junction $src (Join-Path $claude "projects\$($src.Name)\memory")
@@ -35,3 +36,5 @@ if ($skillsDir -and $skillsDir.LinkType) {
         Set-Junction $src (Join-Path $claude "skills\$($src.Name)") (Join-Path $claude 'skills-backup')
     }
 }
+=======
+>>>>>>> Stashed changes

@@ -1,0 +1,17 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "wawcheers-original",
+      "runtimeExecutable": "python",
+      "runtimeArgs": ["-m", "http.server", "8701", "-d", "G:/WAWCHEERS/site"],
+      "port": 8701
+    },
+    {
+      "name": "wawcheers-claude",
+      "runtimeExecutable": "python",
+      "runtimeArgs": ["-m", "http.server", "8702", "-d", "G:/WAWCHEERS/Claude"],
+      "port": 8702
+    }
+  ]
+}
