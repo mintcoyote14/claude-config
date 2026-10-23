@@ -3,4 +3,6 @@
 - [AE scripts: English only](feedback_ae_scripts_english.md) — write all D:\Scripts .jsx UI text/comments in English, even though chat is Ukrainian
 - [Warsaw Cheer lead bot](warsaw-cheer-agent.md) — `E:\warsaw_cheer_agent`, read HANDOFF.md first; hard spend caps, 5 cards/day, Haiku+Sonnet pipeline
 - [JTI03: рендер лише через render queue AE](jti03-render-queue-not-aerender.md) — aerender губить тексти з JSON
+- [Не пропонувати рендер](feedback_no_render_offers.md) — рендер лише за командою, не питати
+- [Файли — клікабельними лінками](feedback_file_links.md) — markdown-лінки в панель застосунку, провідник не відкривати
 - [Дані Claude на D: (домашній ПК)](claude-data-on-d.md) — `C:\Users\tequi\.claude` = junction на `D:\ClaudeHome\.claude`; робочий ПК не переносимо
