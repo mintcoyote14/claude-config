@@ -7,3 +7,4 @@
 - [Файли — клікабельними лінками](feedback_file_links.md) — markdown-лінки в панель застосунку, провідник не відкривати
 - [JTI03: версії войсоверу](jti03-voiceover-versions.md) — «варіант №3» = VO3 (All-Rounder, id 13), VO7 = Explore (id 23); що де стоїть і як замінити
 - [Дані Claude на D: (домашній ПК)](claude-data-on-d.md) — `C:\Users\tequi\.claude` = junction на `D:\ClaudeHome\.claude`; робочий ПК не переносимо
+- [Garage spot-sharing app](garage-sharing-app.md) — E:\garage\app, PWA for 29a neighbours; layout 54–105, lifts, demo vs Supabase
