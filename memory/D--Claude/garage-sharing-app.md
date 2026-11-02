@@ -21,4 +21,8 @@ Spot-sharing PWA for the user's building (Skarbka z Gór 29a, Warsaw), started 2
 - It's a just-for-fun app for willing neighbours; the building management won't share owner data. Decided 2026-10-30: join via invite link with a code from the Messenger chat (no admin approval); a free spot is yours at once (plus the other level of your lift); changing spots / owned spots go through the admin (the user). E-mail login vs no-email (anonymous) still open.
 - Guests are let in by the host resident (who has the key/remote); booking requires owner's opening = consent.
 
-**How to apply:** layout lives in `src/garageLayout.ts`; check it before changing spot geometry. Not done yet as of 2026-10-30: real Supabase deploy, hosting, web push, building 29.
+**Status 2026-11-02:** live at https://garaz-rytmo.pages.dev (Cloudflare Pages, deploy from outside the project folder or wrangler rewrites it for Workers) on Supabase project garaz-rytmo; e-mails via rytmo.garage@gmail.com (function `notify`). Backup: git tag `backup-2026-11-02`, `E:\garage\_backup_2026-11-02`. Building 29 is only a draft: branch `draft/building-29`, private demo https://claude.ai/artifact/Fkvirvq1KtEuuJfYcR6npW; user said not to update the site for now. Full details: `E:\garagepp\PROJEKT.md`.
+
+**How to apply:** read PROJEKT.md first; layout lives in `src/garageLayout.ts`. Never enter passwords for the user in Supabase or elsewhere.
+
+Languages (2026-11-02): pl/en/uk in `src/i18n` with a switch in the profile; on `draft/languages`, not committed and not on the site as of that date. Chat messages (`share.ts`) and e-mails stay Polish on purpose. `node scripts/check-i18n.mjs` checks the dictionaries. Building 29 branch still needs its extra strings translated after this lands.
