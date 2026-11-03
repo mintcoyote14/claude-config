@@ -9,3 +9,4 @@
 - [Дані Claude на D: (домашній ПК)](claude-data-on-d.md) — `C:\Users\tequi\.claude` = junction на `D:\ClaudeHome\.claude`; робочий ПК не переносимо
 - [Garage spot-sharing app](garage-sharing-app.md) — E:\garage\app, PWA for 29a neighbours; layout 54–105, lifts, demo vs Supabase
 - [Garaż: публікація лише після погодження](feedback_garage_publish.md) — на сайт, у живу базу й функцію тільки після «так» і перевірки
+- [Сайт Warsaw Cheerleaders](wawcheers-site.md) — `G:\WAWCHEERS\Claude`; спершу польські сторінки, тексти за SEO-скілами й переклад потім, дизайн звіряти з UI-скілами
