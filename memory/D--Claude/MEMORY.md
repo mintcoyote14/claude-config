@@ -10,3 +10,4 @@
 - [Garage spot-sharing app](garage-sharing-app.md) — E:\garage\app, PWA for 29a neighbours; layout 54–105, lifts, demo vs Supabase
 - [Garaż: публікація лише після погодження](feedback_garage_publish.md) — на сайт, у живу базу й функцію тільки після «так» і перевірки
 - [Сайт Warsaw Cheerleaders](wawcheers-site.md) — `G:\WAWCHEERS\Claude`; спершу польські сторінки, тексти за SEO-скілами й переклад потім, дизайн звіряти з UI-скілами
+- [AE Bridge: guard і save-as](ae-bridge-guard.md) — нова версія .aep блокує правки, потрібен користувач у панелі; масиви не склеювати в рядок у jsx

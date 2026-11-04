@@ -21,3 +21,11 @@ Other voice ids tried: Edge 38 (rejected, slow), 114/79/18/16/27/6/5 tests.
 Also: the user's Premiere music export `JTI03_LAUNCH_006_Music.wav` turned out to be music + my no-music preview baked in; the clean music-only track is `music\crop\JTI03_LAUNCH_006_Music_only.wav` (mix minus preview audio). Check exports for baked-in VO before ducking.
 
 PV01 music had the same problem: clean track is `music\crop\JTI03_PV01_Music_only.wav` (= `JTI03_PV01_preview_Music_v001.wav` minus the audio of `_out\work\2026-10-23\JTI03_PV01_preview_noMusic_v001.mp4`). PV02/PV04 will likely need the same check.
+
+2026-11-03: PV01 restructured per Alina's blue edits (approved structure will then be applied to PV02/PV04): new VO4_PV01_goal / departments / markets (voice 13); priorities and going_global removed from PV01. PV01 temporary music is `music\crop\JTI03_PV01_Music_only_v2.wav` (110 s, bars repeated at 0:34), to be re-cut in Premiere. New scene built by `_build\14_goal_scene.jsx` (GOAL_JOB config).
+
+2026-11-03 (later): PV01 temporary music is now `music\crop\JTI03_PV01_Music_only_v3.wav` (112.16 s). Ring scenes in PV01/PV02/PV04 are driven by `_build\15_ring_motion.jsx` (RING_JOB config; re-runnable); orbit layers in the masters no longer use time remap and run 3 s at speed 1.
+
+Brief timecodes for the videos are approximate (user, 2026-11-03): do not fit durations to them or report a mismatch as a problem.
+
+Client numbering: the file named `JTI03_PV01_preview_v004.mp4` on Drive (folder 26.10.2026) is the same render as local `client\2026-10-23\JTI03_PV01_preview_v003.mp4` (renamed by the user when sending). Local client numbering therefore continues from v005 (2026-11-03).
