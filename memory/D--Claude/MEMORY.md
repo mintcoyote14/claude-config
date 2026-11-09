@@ -11,3 +11,4 @@
 - [Garaż: публікація лише після погодження](feedback_garage_publish.md) — на сайт, у живу базу й функцію тільки після «так» і перевірки
 - [Сайт Warsaw Cheerleaders](wawcheers-site.md) — `G:\WAWCHEERS\Claude`; спершу польські сторінки, тексти за SEO-скілами й переклад потім, дизайн звіряти з UI-скілами
 - [AE Bridge: guard і save-as](ae-bridge-guard.md) — нова версія .aep блокує правки, потрібен користувач у панелі; масиви не склеювати в рядок у jsx
+- [JTI03: коментарі клієнта в брифі](jti03-brief-sheet-comments.md) — Sheets API їх не віддає, читати через Drive-експорт xlsx (threadedComments)
