@@ -4,26 +4,65 @@
     {
       "name": "wawcheers-original",
       "runtimeExecutable": "python",
-      "runtimeArgs": ["-m", "http.server", "8701", "-d", "G:/WAWCHEERS/site"],
+      "runtimeArgs": [
+        "-m",
+        "http.server",
+        "8701",
+        "-d",
+        "G:/WAWCHEERS/site"
+      ],
       "port": 8701
     },
     {
       "name": "wawcheers-claude",
       "runtimeExecutable": "python",
-      "runtimeArgs": ["-m", "http.server", "8702", "-d", "G:/WAWCHEERS/Claude"],
+      "runtimeArgs": [
+        "-m",
+        "http.server",
+        "8702",
+        "-d",
+        "G:/WAWCHEERS/Claude"
+      ],
       "port": 8702
     },
     {
       "name": "garaz",
       "runtimeExecutable": "npm",
-      "runtimeArgs": ["--prefix", "E:/garage/app", "run", "dev"],
+      "runtimeArgs": [
+        "--prefix",
+        "E:/garage/app",
+        "run",
+        "dev"
+      ],
       "port": 5180
     },
     {
       "name": "garaz-demo",
       "runtimeExecutable": "npm",
-      "runtimeArgs": ["--prefix", "E:/garage/app", "run", "dev", "--", "--mode", "demo", "--port", "5181"],
+      "runtimeArgs": [
+        "--prefix",
+        "E:/garage/app",
+        "run",
+        "dev",
+        "--",
+        "--mode",
+        "demo",
+        "--port",
+        "5181"
+      ],
       "port": 5181
+    },
+    {
+      "name": "wawcheers-preview",
+      "runtimeExecutable": "python",
+      "runtimeArgs": [
+        "-m",
+        "http.server",
+        "8703",
+        "-d",
+        "D:/Temp/claude/b70d0e96dfc39538/8a1bc641-5d7f-47e5-9fed-ddf4c3c80b0d/scratchpad"
+      ],
+      "port": 8703
     }
   ]
 }

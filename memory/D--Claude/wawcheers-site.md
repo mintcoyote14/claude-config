@@ -5,10 +5,10 @@ metadata:
   node_type: memory
   type: project
   originSessionId: 8a1bc641-5d7f-47e5-9fed-ddf4c3c80b0d
-  modified: 2026-11-03T12:18:51.866Z
+  modified: 2026-11-10T12:49:56.419Z
 ---
 
-Сайт Warsaw Cheerleaders (warsawcheer.pl), команда дружини користувача. Робоча чернетка: `G:\WAWCHEERS\Claude`, оригінальна чернетка `G:\WAWCHEERS\site` не змінюється, знімки в `G:\WAWCHEERS\Claude_versions`. Локальний перегляд лише у вбудованому браузері (`wawcheers-claude` у `D:\Claude\.claude\launch.json`, порт 8702), не артефакт: claude.ai додає білий фон, який перекриває градієнт.
+Сайт Warsaw Cheerleaders (warsawcheer.pl), команда дружини користувача. Робоча чернетка: `G:\WAWCHEERS\Claude`, оригінальна чернетка `G:\WAWCHEERS\site` не змінюється, знімки в `G:\WAWCHEERS\Claude_versions`. Локальний перегляд у вбудованому браузері (`wawcheers-claude` у `D:\Claude\.claude\launch.json`, порт 8702). Для телефона користувач дивиться приватний артефакт https://claude.ai/artifact/YBS783vJjhtYiu6pQRc6JQ (лише польські сторінки). Особливості claude.ai: обгортка дає `body{background:#fff}` (у design.css стоїть `body{background:transparent}`); сайт іде з підшляху, тож кореневі посилання (`/`, `/#oferta`) у копії для артефакту треба переписувати на відносні (`index.html#oferta`); на iPhone рамка розтягується на всю сторінку й прокрутка зберігається між сторінками (у design.js є scrollIntoView для сайту в рамці).
 
 Порядок робіт, сказаний користувачем 2026-11-03:
 - спершу допрацювати польські сторінки, англійські версії не створювати: переклад робимо разом наприкінці;
