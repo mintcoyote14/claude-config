@@ -15,3 +15,4 @@
 - [Не чіпати чергу рендеру AE](feedback_keep_render_queue.md) — не видаляти й не чистити елементи render queue
 - [JTI03: не звіряти з таймінгом брифу](feedback_jti03_brief_timing.md) — різниця 10–15 с неважлива, у списки й листи не вносити
 - [AE: застарілі ключі після скрипту](ae-stale-keys-after-script.md) — зсунуті скриптом ключі/слайдери рендеряться по-старому; «торкнути» ключі й вирази
+- [JTI03: превью без номерів](feedback_jti03_preview_overwrite.md) — `_out\work\preview\JTI03_PVnn_preview_draft.mp4`, щоразу перезаписувати
