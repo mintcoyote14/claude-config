@@ -19,3 +19,4 @@
 - [JTI03: upscale only precision](jti03-upscale-precision-only.md) — creative does not follow the lips, do not offer it
 - [JTI03: правки ефектами AE](jti03-fixes-as-ae-effects.md) — колір/різкість інтерв'ю ефектами на шарі, не перерендером файлу
 - [JTI03: звук інтерв'ю через Adobe Enhance](jti03-interview-audio-adobe-enhance.md) — я ріжу _raw, користувач проганяє Enhance у _adobe, проєкт бере _adobe
+- [Деплой warsawcheer.pl](wawcheers-deploy.md) — Cloudflare Pages через wrangler, лише на сигнал користувача: прев'ю-гілка, тест, потім main
