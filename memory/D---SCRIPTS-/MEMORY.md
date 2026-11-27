@@ -33,3 +33,5 @@
 - [Викреслена оферта: старі файли не видаляти](biedronka-crossed-out-offer-ignore-old-files.md) — «забирай» = пропустити, а не видалити зроблене
 - [Різні люди в оферт одного споту](biedronka-different-people-per-offer.md) — людина не повторюється; фон-комп дублювати й міняти кліп
 - [Дані Claude на D: (домашній ПК)](claude-data-on-d.md) — `C:\Users\tequi\.claude` = junction на `D:\ClaudeHome\.claude`; робочий ПК не переносимо
+- [JTI03: папка фіналів і правила рендеру](jti03-final-folder-and-render-rules.md) — `_out\final`, версія з субтитрами як у тизері, один шматок на папку (нумерація кадрів)
+- [Magnific: спершу уточнити акаунт](magnific-confirm-account-before-generation.md) — перед генерацією/апскейлом спитати акаунт; не мовчки міняти конектор (27.11 помилка на ≈100 тис. кредитів)
